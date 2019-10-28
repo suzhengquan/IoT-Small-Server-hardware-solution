@@ -1,0 +1,13 @@
+802.11BGN USB 2.0 NETWORK INTERFACE CONTROLLER
+General Description:
+The Realtek RTL8192EU-VL-CG is an 802.11bgn 2.4G single-chip that integrates Wireless LAN (WLAN) and a network USB interface (USB 1.0/1.1/2.0 compatible) controller. It combines a WLAN MAC, a 2T2R capable WLAN baseband, and WLAN RF in a single chip. The RTL8192EU-VL-CG provides a complete solution for a high-throughput performance and low power consumption integrated wireless LAN device.
+
+Features:
+56-pin QFN
+802.11bgn
+Integrated PA/LNA/TRSW
+802.11n MIMO
+Wake on Wireless LAN
+
+Applications:
+This product is applicable for TV, Set-Top box/Over-The-Top box, IP Camera, etc. Wi-Fi applications
